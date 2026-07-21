@@ -191,14 +191,14 @@ export const education: EducationItem[] = [
     institution: 'New Horizon College of Engineering', // TODO: update institution name
     location: 'India', // TODO: update location
     // startDate: '2021', // TODO: update start date
-    endDate: '2023', // TODO: update end date
+    endDate: '2025', // TODO: update end date
   },
   {
     degree: "Bachelor's Degree (BSc)", // TODO: specify exact degree, e.g. "Bachelor of Computer Applications (BCA)"
     institution: 'Rani Chennamma University', // TODO: update institution name
     location: 'India', // TODO: update location
     // startDate: '2018', // TODO: update start date
-    endDate: '2021', // TODO: update end date
+    endDate: '2023', // TODO: update end date
   },
 
 ];
