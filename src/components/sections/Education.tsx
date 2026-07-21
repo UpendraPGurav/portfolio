@@ -28,7 +28,7 @@ export function Education() {
                   {item.location}
                 </p>
                 <span className="mt-4 inline-block rounded-full bg-blue-500/10 px-3 py-1 text-xs font-medium text-blue-500">
-                  {item.startDate} — {item.endDate}
+                  {item.endDate}
                 </span>
               </GlassCard>
             </Reveal>
