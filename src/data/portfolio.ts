@@ -148,7 +148,7 @@ export const projects: Project[] = [
     ],
     featured: true,
     // TODO: add your project links
-    githubUrl: 'https://github.com/UpendraPGurav/netflix-clone',
+    githubUrl: 'https://github.com/UpendraPGurav/NetFlix#',
   },
   {
     id: 'bank-audit-management-system',
